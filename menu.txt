@@ -1,0 +1,15 @@
+-------------------
+|    LABIRINTO    |
+|                 |
+|1- NOVO JOGO     |
+|                 |
+|2- CONTINUAR     |
+|                 |
+|3- SALVAR        |
+|                 |
+|4- CARRREGAR     |
+|                 |
+|5- RANKING       |
+|                 |
+|6- SAIR          |
+-------------------
